@@ -1,5 +1,4 @@
 # vercelprojetc
-
 4. vercel -v
 5. vercel init
    j'ai choisi angular
