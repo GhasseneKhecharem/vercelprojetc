@@ -20,3 +20,5 @@ de dévelopement et là c'est la phase où on peut encore modifier quoi que ce s
 un environnement Production pour la phase de production où le projet est déjà fonctionnelle et entrain d'être exploité.
 17.
 18.https://vercel.com/ghassenekhecharem/vercelprojetc
+19.Quand un collaborateur effectue des changements sur sa propre branche et qu'il veut les intègrer sur la branche master il effectue un 
+pull request, donc c'est une sorte de demande d'affecter des modifications sur la branche master
